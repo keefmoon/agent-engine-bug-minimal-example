@@ -7,7 +7,6 @@ I've followed the the steps at https://cloud.google.com/vertex-ai/generative-ai/
 First run:
 ```
 pip install -r requirements.txt
-
 ```
 
 The simple tool-using agent deploys successfully to Agent Engine:
