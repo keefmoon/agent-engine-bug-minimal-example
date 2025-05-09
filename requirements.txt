@@ -1,0 +1,5 @@
+google-cloud-aiplatform[adk,agent_engines]
+google-adk
+google-adk[eval]
+vertexai
+absl-py
